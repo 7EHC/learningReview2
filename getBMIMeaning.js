@@ -30,3 +30,4 @@ module.exports = getBMIMeaning
 // calculateBMI(65, 1.8)
 // calculateBMI(80, 1.7)
 // calculateBMI(44, 1.6)
+//
